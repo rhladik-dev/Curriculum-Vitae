@@ -8,7 +8,7 @@ https://www.linkedin.com/in/romanhladik
 
 ## Professional Summary
 
-Platform-focused Cloud Systems Engineer with experience in enterprise Linux operations, infrastructure automation, Kubernetes-based services, observability, and security tooling. Strong background in Oracle Cloud Infrastructure, centralized logging, incident response, and large-scale system management with SaltStack. Focused on reliability, operational simplicity, secure service delivery, and effective onboarding of internal teams onto shared platforms.
+Platform-focused Cloud Systems Engineer with experience in enterprise Linux operations, infrastructure automation, Kubernetes-based services, observability, security tooling, and Splunk administration. Strong background in Oracle Cloud Infrastructure, centralized logging, incident response, and large-scale system management with SaltStack. Focused on reliability, operational simplicity, secure service delivery, and effective onboarding of internal teams onto shared platforms.
 
 ## Core Skills
 
@@ -30,6 +30,7 @@ Platform-focused Cloud Systems Engineer with experience in enterprise Linux oper
 ### Observability and Logging
 
 - Splunk
+- Splunk administration
 - Grafana
 - OpenSearch
 - Syslog pipeline design and operations
@@ -89,6 +90,7 @@ Brno, Czech Republic
 February 2019 - May 2021
 
 - Managed monitoring infrastructure built on Splunk.
+- Acted as Splunk administrator for monitoring infrastructure, including configuration maintenance and operational support.
 - Delivered internal Splunk training sessions, mentoring, and knowledge-sharing activities.
 - Designed dashboards and improved data ingestion pipelines for internal monitoring use cases.
 - Maintained Splunk configuration through Git-based deployment workflows.
