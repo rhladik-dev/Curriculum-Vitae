@@ -1,135 +1,123 @@
 # Roman Hladik
 
-📍 Czech Republic
-📧 [xhladi02@gmail.com](mailto:xhladi02@gmail.com)
-🔗 https://www.linkedin.com/in/romanhladik
+Czech Republic  
+[xhladi02@gmail.com](mailto:xhladi02@gmail.com)  
+https://www.linkedin.com/in/romanhladik
 
 ---
 
-## 🧑‍💻 Profile
+## Professional Summary
 
-Cloud Systems Engineer with strong expertise in Linux systems, infrastructure automation, and security-focused platform operations. Experienced in Oracle Cloud Infrastructure (OCI), Kubernetes workloads, and large-scale system management using configuration management tools. Focused on reliability, observability, and secure platform engineering.
+Platform-focused Cloud Systems Engineer with experience in enterprise Linux operations, infrastructure automation, Kubernetes-based services, observability, and security tooling. Strong background in Oracle Cloud Infrastructure, centralized logging, incident response, and large-scale system management with SaltStack. Focused on reliability, operational simplicity, secure service delivery, and effective onboarding of internal teams onto shared platforms.
 
----
+## Core Skills
 
-## 🛠 Skills
+### Cloud and Platform Engineering
 
-**Cloud & Platforms**
+- Oracle Cloud Infrastructure (OCI)
+- Kubernetes / Oracle Kubernetes Engine (OKE)
+- Helm
+- Linux platform operations
+- Bare metal and virtualized environments
 
-* Oracle Cloud Infrastructure (OCI)
-* Kubernetes (Oracle OKE)
+### Automation and Infrastructure
 
-**Systems & Automation**
+- SaltStack
+- Bash scripting
+- Python for internal tooling and integrations
+- Terraform workflow support and configuration management
 
-* Linux (RHEL/CentOS), Virtualization, Bare Metal
-* SaltStack (configuration management & orchestration at scale)
-* Bash (scripting, automation)
-* Python (internal tooling, integrations)
+### Observability and Logging
 
-**Observability**
+- Splunk
+- Grafana
+- OpenSearch
+- Syslog pipeline design and operations
+- Log ingestion troubleshooting and optimization
 
-* Splunk (forwarders, log pipelines, dashboards)
-* Grafana, OpenSearch (log analysis & troubleshooting)
+### Security and Operations
 
-**Security & Platform Engineering**
+- Illumio PCE administration
+- Secret management platform support
+- CrowdStrike Falcon Sensor
+- Qualys
+- Tanium
+- Secure onboarding and platform hardening support
 
-* Illumio (PCE supercluster management)
-* Secret Management systems (controller operations & onboarding)
-* CrowdStrike Falcon Sensor
-* Qualys, Tanium (endpoint security & vulnerability management)
+### Delivery and Collaboration
 
-**DevOps & Tooling**
+- GitLab
+- TeamCity
+- Bamboo
+- Cross-team incident troubleshooting
+- On-call operations and incident response
+- Root cause analysis and post-incident support
+- Operational support in large-scale enterprise environments
 
-* GitLab (version control, CI workflows)
-* TeamCity (build pipelines)
-* Terraform (configuration understanding, variable management)
+### Networking
 
-**Networking (Foundational)**
+- TCP/IP fundamentals
+- Routing and switching fundamentals
+- Experience with Cisco and Check Point environments
 
-* TCP/IP, routing & switching fundamentals
-* Enterprise networking environments (Cisco, Check Point)
-
----
-
-## 💼 Experience
+## Professional Experience
 
 ### Oracle NetSuite
 
-**Cloud Systems Engineer**
-📍 Brno, Czech Republic
-📅 Jun 2021 – Present
+**Cloud Systems Engineer**  
+Brno, Czech Republic  
+June 2021 - Present
 
-* Manage infrastructure using **SaltStack**, covering **~50 syslog servers** and security/platform components
-* Act as **custodian of Illumio PCE supercluster (42 nodes)**, ensuring segmentation policy reliability and platform stability
-* Designed and implemented **templated syslog configuration via Salt**, enabling:
-
-  * elimination of duplicate log ingestion
-  * improved load balancing and parallel log forwarding to Splunk
-  * more efficient and reliable log pipeline architecture
-* Operate and maintain **log ingestion stack** (syslog → Splunk forwarders), ensuring consistent and scalable data flow
-* Manage and support **security agents** including Falcon Sensor, Qualys, and Tanium across infrastructure
-* Work with **Kubernetes workloads on Oracle OKE** within OCI environments
-* Use **Grafana and OpenSearch** for advanced troubleshooting and log correlation
-* Contribute to **internal platform development** using GitLab and TeamCity pipelines
-* Co-manage **secret management controller**, collaborating with Security Architecture on Python-based solutions
-* Support teams with **secure onboarding of secrets**, improving adoption of centralized secret management
-* Work with **Terraform-based infrastructure**, supporting provisioning workflows and configuration variables
-* Troubleshoot complex issues across distributed systems in a large-scale SaaS environment
-
----
+- Manage infrastructure automation with SaltStack across approximately 50 syslog servers and related platform components.
+- Own platform configuration of an Illumio PCE supercluster with 42 nodes, supporting platform stability and reliable network segmentation controls.
+- Own three core security-related platform systems within the team scope.
+- Designed and implemented templated syslog configuration in SaltStack, removing duplicate log ingestion and improving load balancing and parallel forwarding to Splunk.
+- Operate and maintain the log ingestion stack from syslog through Splunk forwarders to support reliable and scalable data flow.
+- Support security tooling across infrastructure, including CrowdStrike Falcon Sensor, Qualys, and Tanium.
+- Work with Kubernetes workloads on Oracle Kubernetes Engine within OCI environments, including Helm-based deployments, workload operations, and pod-level troubleshooting.
+- Use Grafana and OpenSearch for troubleshooting, correlation, and operational visibility across distributed systems.
+- Contribute to internal platform development and delivery workflows using GitLab, TeamCity, and Bamboo.
+- Own source code and Kubernetes deployment of an internal secret management tool, collaborating with Security Architecture on Python-based internal solutions.
+- Support onboarding of internal teams onto shared platforms and centralized secret management workflows.
+- Work with Terraform-based infrastructure in a read-oriented capacity, including basic modification of existing modules and configuration variables.
+- Participate in on-call operations, incident response, root cause analysis, patching, maintenance work, and production troubleshooting across distributed systems in a large-scale SaaS environment.
 
 ### EmbedIT
 
-**Monitoring Specialist**
-📍 Brno, Czech Republic
-📅 Feb 2019 – May 2021
+**Monitoring Specialist**  
+Brno, Czech Republic  
+February 2019 - May 2021
 
-* Managed monitoring infrastructure based on Splunk 
-* Delivered internal Splunk trainings and knowledge sharing
-* Designed dashboards and optimized data ingestion pipelines
-* Maintained Splunk configurations (Git-based deployment)
-* Participated in 24/7 on-call rotation
-
----
+- Managed monitoring infrastructure built on Splunk.
+- Delivered internal Splunk training sessions, mentoring, and knowledge-sharing activities.
+- Designed dashboards and improved data ingestion pipelines for internal monitoring use cases.
+- Maintained Splunk configuration through Git-based deployment workflows.
+- Participated in 24/7 on-call rotation.
 
 ### AT&T
 
-#### Senior / Junior Linux System Deployment Engineer
+**Senior / Junior Linux System Deployment Engineer**  
+Brno, Czech Republic  
+December 2016 - January 2019
 
-📅 Dec 2016 – Jan 2019
+- Deployed Red Hat Enterprise Linux systems across virtualized and bare-metal infrastructure.
+- Worked with Dell, HP, and VMware-based environments.
 
-📍 Brno, Czech Republic
+**Tier 2 Network Engineer, Service Assurance**  
+Brno, Czech Republic  
+July 2013 - January 2016
 
-* Deployed RHEL systems on virtual and bare-metal infrastructure 
-* Worked with Dell, HP, and VMware environments
+- Performed troubleshooting in enterprise data center environments.
+- Worked across L1 to L4 diagnostics in network operations.
 
----
-
-#### Tier 2 Network Engineer – Service Assurance
-
-📅 Jul 2013 – Jan 2016
-
-* Troubleshooting in IBM data center environments 
-* L1–L4 diagnostics and enterprise network operations
-* Worked with Cisco, Check Point, Blue Coat, Brocade
-
----
-
-## 🎓 Education
+## Education
 
 ### Brno University of Technology
 
-**MSc (Ing.), Electrical Engineering & Communication**
-📅 2007 – 2013 
+**MSc (Ing.), Electrical Engineering and Communication**  
+2007 - 2013
 
----
+## Languages
 
-## 🌍 Languages
-
-* Czech — Native
-* English — Professional
-* German — Limited working
-* Russian — Basic 
-
----
-
+- Czech: Native
+- English: Professional working proficiency
